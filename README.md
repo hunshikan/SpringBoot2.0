@@ -8,9 +8,15 @@
 #框架：Web后端框架IDEA+Springboot2.0+Spring+Mybatis+Redis+Socket+Log4J+Maven
 
 #特别说明！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+
 #mvn打包命令是,用的spring-boot-maven-plugin插件，打包时还是依赖maven-compiler-plugin
+
 mvn clean install spring-boot:repackage -Pdev
+
 #或者是,用的maven-compiler-plugin插件
+
 mvn clean package -Pdev
+
 #或者，pom默认会加载dev
+
 mvn clean package
