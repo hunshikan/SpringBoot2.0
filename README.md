@@ -7,7 +7,7 @@
 
 #时间：20180824
 
-#简书地址：https://www.jianshu.com/p/0c254bb0af84
+#简书项目介绍地址：https://www.jianshu.com/p/0c254bb0af84
 
 #框架：Web后端框架IDEA+Springboot2.0+Spring+Mybatis+Redis+Socket+Log4J+Maven
 
