@@ -7,7 +7,10 @@
 #简书地址：https://www.jianshu.com/p/0c254bb0af84
 #框架：Web后端框架IDEA+Springboot2.0+Spring+Mybatis+Redis+Socket+Log4J+Maven
 
-#特别说明！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+#特别说明
+
+!!!!!!!!!!!项目运行前请先把src\main\resources\application-dev.properties配置文件的数据库地址啥的改成你自己的地址!!!!!!!!!!!
+
 
 #mvn打包命令是,用的spring-boot-maven-plugin插件，打包时还是依赖maven-compiler-plugin
 
