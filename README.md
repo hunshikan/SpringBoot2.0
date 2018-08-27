@@ -16,7 +16,9 @@
 !!!!!!!!!!!项目运行前请先把src\main\resources\application-dev.properties配置文件的数据库地址啥的改成你自己的地址!!!!!!!!!!!
 项目具体介绍详见简书！
 
-#mvn打包命令是,用的spring-boot-maven-plugin插件，打包时还是依赖maven-compiler-plugin
+
+
+#mvn打包命令是用的spring-boot-maven-plugin插件，打包时还是依赖maven-compiler-plugin
 
 mvn clean install spring-boot:repackage -Pdev
 
