@@ -1,6 +1,8 @@
 # SpringBoot2.0
 2018后端项目框架
 
+#框架：Web后端框架IDEA+Springboot2.0+Spring+Mybatis+Redis+Socket+Log4J+Maven
+
 #呕心沥血这么久才搞好的这个项目，所以要为此做个项目说明，具体说明放在简书了
 
 #作者：GYB
@@ -8,8 +10,6 @@
 #时间：20180824
 
 #简书项目介绍地址：https://www.jianshu.com/p/0c254bb0af84
-
-#框架：Web后端框架IDEA+Springboot2.0+Spring+Mybatis+Redis+Socket+Log4J+Maven
 
 #特别说明
 
